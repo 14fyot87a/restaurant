@@ -11,7 +11,7 @@ height:auto;
 background-color:#e74c3c;
 padding:10px;
 box-sizing: border-box;
-  position:fixed;
+  position:absolute;
   top:0px;
   left:0px;
   z-index:9999;
